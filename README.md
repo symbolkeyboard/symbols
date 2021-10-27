@@ -11,3 +11,4 @@ All symbols consist of official symbol characters, symbol names and meanings lis
 
 The easiest way to quickly **copy and paste symbols**.
 ### List of Symbols
+- [Star Symbols](https://github.com/symbolkeyboard/star-symbols)
