@@ -1,4 +1,4 @@
-# Symbols
+# Text Symbols
 [![text symbols](https://img.shields.io/badge/github-symbols-green.svg)](https://github.com/symbolkeyboard/symbols)
 [![copy and paste symbols](https://img.shields.io/badge/source-symbolkeyboad.com-orange.svg)](https://symbolkeyboard.com)
 ## Copy and Paste Symbols
